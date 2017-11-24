@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">biodataScrollView</string>
+    <string name="biodata">biodata</string>
+    <string name="nama">nama : Didah Siti Nursaadah</string>
+    <string name="jurusan">jurusan : Teknik Informatika</string>
+    <string name="fakultas">fakultas : Sains dan Teknologi</string>
+    <string name="TTL">TTL : Bogor,06 Oktober 1996</string>
+    <string name="hobi">hobi : membaca komik, nonton short movie, maen</string>
+    <string name="alamat">alamat : Cariu-Bogor</string>
+    <string name="motto">motto : Sesungguhnya bersama kesulitan itu pasti ada kemudahan</string>
+    <string name="status">status : Mahasiswa</string>
+    <string name="universitas">universitas Islam Sunan Gunung Djati Bandung</string>
+</resources>
